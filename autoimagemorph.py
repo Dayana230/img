@@ -146,7 +146,7 @@ def autofeaturepoints(leimg, riimg, featuregridsize, showfeatures):
     return result
 
 
-def loadTriangles(limg, rimg, featuregridsize, showfeatures) -> tuple:
+def loadTriangles (limg, rimg, featuregridsize, showfeatures) -> tuple:
     leftTriList = []
     rightTriList = []
 
