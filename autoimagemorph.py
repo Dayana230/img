@@ -150,4 +150,4 @@ def loadTriangles (limg, rimg, featuregridsize, showfeatures) -> tuple:
     leftTriList = []
     rightTriList = []
 
-    lrlists = autofeaturepoints(limg, rimg, featuregridsize
+    lrlists = autofeaturepoints(limg, rimg, featuregridsize)
