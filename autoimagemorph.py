@@ -366,3 +366,4 @@ print("User input: \r\n"+str(args))
 # processing
 
 batchmorph(args['inframes'],args['featuregridsize'],args['subpixel'],args['showfeatures'],args['framerate'],args['outprefix'],args['smoothing'],args['scale'])
+
